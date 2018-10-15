@@ -1,0 +1,1 @@
+# Generates an Excel document showing the Office 365 license usage

@@ -1,0 +1,62 @@
+[
+    {
+        "Directory":  "D:\\Data\\Area9\\Infrastructure\\Network\\Backups\\Dated Configs",
+        "Time":  12,
+        "Unit":  "Months",
+        "Excludes":  [
+			"*.db",
+			"*.com"
+		],
+		"Force": "Yes"
+    },
+	{
+        "Directory":  "D:\\Data\\Area9\\Infrastructure\\Network\\Backups\\Reports",
+        "Time":  3,
+        "Unit":  "Months",
+        "Excludes":  [
+			"*.db",
+			"*.com"
+		],
+		"Force": "Yes"
+    },
+	{
+        "Directory":  "D:\\Data\\Area9\\Infrastructure\\Network\\Backups\\Configs",
+        "Time":  12,
+        "Unit":  "Months",
+        "Excludes":  [
+			"*.db",
+			"*.com"
+		],
+		"Force": "Yes"
+    },
+	{
+        "Directory":  "D:\\Data\\Area9\\Service Delivery\\Network Configs\\Configs",
+        "Time":  12,
+        "Unit":  "Months",
+        "Excludes":  [
+			"*.db",
+			"*.com"
+		],
+		"Force": "Yes"
+    },
+	{
+        "Directory":  "D:\\Data\\Area9\\Service Delivery\\Network Configs\\Dated Configs",
+        "Time":  9,
+        "Unit":  "Months",
+        "Excludes":  [
+			"*.db",
+			"*.com"
+		],
+		"Force": "Yes"
+    },
+	{
+        "Directory":  "D:\\Data\\Area9\\Service Delivery\\Network Configs\\Reports",
+        "Time":  3,
+        "Unit":  "Months",
+        "Excludes":  [
+			"*.db",
+			"*.com"
+		],
+		"Force": "Yes"
+    }
+]
